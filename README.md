@@ -3,7 +3,7 @@
 Welcome to SHREYA's personal website repository! This website is a showcase of Shreya's skills, interests, and projects.
 
 
-[![GitHub stars](https://img.shields.io/github/stars/shreyamalogi/Teal-Minimal-Portfolio.svg?style=social)](https://github.com/shreyamalogi/Teal-Minimal-Portfolio/stargazers) 
+[![GitHub stars](https://img.shields.io/github/stars/shreyamalogi/Teal-Minimal-Portfolio.svg?style=social)](https://github.com/shreyamalogi/Teal-Minimal-Portfolio/stargazers)
 
 ## DETAILS: 💻🌐📅✍️
 
